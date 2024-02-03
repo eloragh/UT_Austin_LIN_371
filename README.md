@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Assignments](#assignments)
-- [Final Project](#finalproject)
+- [Final Project](#final-project)
 
 ## Introduction
 
