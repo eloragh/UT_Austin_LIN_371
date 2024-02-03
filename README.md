@@ -1,4 +1,4 @@
-# [LIN 353c Intro to Computational Linguistics](https://sites.google.com/utexas.edu/lin353c-introduction-to-comput/home) <img align="right" width="150" height="150" src=Misc/UT_Seal.png>
+# [LIN 371 Machine Learning for Text Analysis]([https://sites.google.com/utexas.edu/lin353c-introduction-to-comput/home](https://jessyli.com/courses/lin371)) <img align="right" width="150" height="150" src=Misc/UT_Seal.png>
 
 ## Table of Contents
 
