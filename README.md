@@ -14,3 +14,5 @@ This repository contains all of the assignments and input text files for LIN 371
 
 [Homework 1](https://github.com/eloragh/LIN-371/blob/main/Homework/hw1_eae2273.ipynb)
 - Bayes Theorem, maximum a posteriori (MAP), sample and conditional entropy, sentiment analysis, log odds ratio
+
+## Final Project
