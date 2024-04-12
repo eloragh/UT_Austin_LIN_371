@@ -22,7 +22,7 @@ This repository contains all of the assignments and input text files for LIN 371
 - Logistic regression, regularization, evaluation, vectorization, 10-fold cross-validation, POS tag extraction, column transform
 
 [Homework 4](https://github.com/eloragh/UT_Austin_LIN_371/blob/main/Homework/hw4_eae2273.ipynb)
-- Multi-layer perceptions, deep neural networks, overfitting, static word embeddings vs. contextualized word embeddings
+- Multi-layer perceptions, deep neural networks, overfitting, static word embeddings vs. contextualized word embeddings, neural network bias
 
 ## Final Project
 This final project was done in collaboration with Rylan Vachon. Our goal was to use X data to plot different users on the [Political Compass](https://www.politicalcompass.org/). We used two separate logistic regression models to identify the x and y coordinates for each user.
