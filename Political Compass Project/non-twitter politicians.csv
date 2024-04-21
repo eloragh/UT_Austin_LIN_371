@@ -1,0 +1,12 @@
+key,user_id,user_name,user_handle,x_coordinate,y_coordinate,political party,year,country,twitter_active_during_year
+2008,N/A,Duncan Hunter,N/A,7,6,Republican,2008,USA,FALSE
+12008,N/A,John Edwards,N/A,2,1,Democratic,2008,USA,FALSE
+12012,N/A,Stewart Alexander,N/A,-5,-1,Socialist,2012,USA,FALSE
+22012,N/A,Rockey Anderson,N/A,4,-2,Justice,2012,USA,FALSE
+22008,N/A,Stephane Dion,N/A,2,3,Liberal,2008,CA,FALSE
+32008,N/A,Gilles Duceppe,N/A,-1,-1,Bloc Quebecios,2008,CA,FALSE
+12013,N/A,Angela Merkel,N/A,7,6,CDU/SCU,2013,DE,FALSE
+22013,N/A,Rainer Bruderle,N/A,8,-1,FDP,2013,DE,FALSE
+12010,N/A,Tony Crook,N/A,5,6,WA Nationals,2010,AUS,FALSE
+12011,N/A,Tariana Turia,N/A,-1,0,Maori Party,2011,NZ,FALSE
+12017,N/A,Marama Fox,N/A,-1,0,Maori Party,2017,NZ,FALSE
