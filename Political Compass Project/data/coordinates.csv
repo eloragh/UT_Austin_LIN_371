@@ -1,0 +1,222 @@
+,key,twitter_user_id,politician_name,twitter_handle,x_coordinate,y_coordinate,political party,election year,country,twitter_active_during_election
+0,8132862008.0,813286,Barack Obama,BarackObama,3,2,Democratic,2008,USA,True
+1,9390912008.0,939091,Joe Biden,JoeBiden,3,3,Democratic,2008,USA,True
+2,150226332008.0,15022633,Dennis Kucinich,Dennis_Kucinich,-2,-2,Democratic,2008,USA,True
+3,314286852008.0,31428685,Bill Richardson,GovRichardson,4,4,Democratic,2008,USA,False
+4,154165052008.0,15416505,Mike Huckabee,GovMikeHuckabee,6,6,Republican,2008,USA,True
+5,13398358932008.0,1339835893,Hillary Clinton,HillaryClinton,4,2,Democratic,2008,USA,False
+6,2874135692008.0,287413569,Ron Paul,RonPaul,9,1,Republican,2008,USA,False
+7,193941882008.0,19394188,John McCain,SenJohnMcCain,6,4,Republican,2008,USA,False
+8,207130612008.0,20713061,Newt Gingrich,newtgingrich,8,7,Republican,2008,USA,False
+9,7.526389690959995e+21,752638969095999489,Mike Gravel,MikeGravel_US,8,-2,Democratic,2008,USA,False
+10,196378212008.0,19637821,Alan Keyes,loyaltoliberty,6,8,Republican,2008,USA,False
+11,500557012008.0,50055701,Mitt Romney,MittRomney,7,8,Republican,2008,USA,False
+12,27049512008.0,2704951,Fred Thompson,fredthompson,7,7,Republican,2008,USA,True
+13,163174062008.0,16317406,Chris Dodd,SenChrisDodd,3,4,Democratic,2008,USA,True
+14,7.707819403412889e+21,770781940341288960,Rudy Guiliani,RudyGiuliani,6,5,Republican,2008,USA,False
+15,773146922008.0,77314692,Ralph Nader,RalphNader,-5,-3,Green,2008,USA,False
+16,645349082008.0,64534908,Tom Tancredo,ttancredo,7,8,Republican,2008,USA,False
+17,1112169292012.0,111216929,Jill Stein,DrJillStein,-3,-3,Green,2012,USA,True
+18,8132862012.0,813286,Barack Obama,BarackObama,6,6,Democratic,2012,USA,True
+19,500557012012.0,50055701,Mitt Romney,MittRomney,7,7,Republican,2012,USA,True
+20,6056413962012.0,605641396,Virgil Goode,VirgilGoode,9,9,Constitution,2012,USA,True
+21,957133332012.0,95713333,Gary Johnson,GovGaryJohnson,9,0,Libertarian,2012,USA,True
+22,207130612012.0,20713061,Newt Gingrich,newtgingrich,7,7,Republican,2012,USA,True
+23,2874135692012.0,287413569,Ron Paul,RonPaul,9,-1,Republican,2012,USA,True
+24,583790002012.0,58379000,Rick Santorum,RickSantorum,6,8,Republican,2012,USA,True
+25,13398358932016.0,1339835893,Hllary Clinton,HillaryClinton,8,5,Democratic,2016,USA,True
+26,294423132016.0,29442313,Bernie Sanders,SenSanders,0,-2,Democratic,2016,USA,True
+27,250738772016.0,25073877,Donald Trump,realDonaldTrump,9,7,Republican,2016,USA,True
+28,1130479402016.0,113047940,Jeb Bush,JebBush,8,9,Republican,2016,USA,True
+29,230226872016.0,23022687,Ted Cruz,TedCruz,9,9,Republican,2016,USA,True
+30,157453682016.0,15745368,Marco Rubio,MarcoRubio,9,8,Republican,2016,USA,True
+31,957133332016.0,95713333,Gary Johnson,GovGaryJohnson,10,-2,Libertarian,2016,USA,True
+32,1112169292016.0,111216929,Jill Stein,DrJillStein,-3,3,Green,2016,USA,True
+33,250738772020.0,25073877,Donald Trump,realDonaldTrump,9,9,Republican,2020,USA,True
+34,180200812020.0,18020081,John Kasich,JohnKasich,9,8,Republican,2020,USA,True
+35,733037532020.0,73303753,Bob Corker,SenBobCorker,10,9,Republican,2020,USA,True
+36,222037562020.0,22203756,Mike Pence,Mike_Pence,10,9,Republican,2020,USA,True
+37,29876715522020.0,2987671552,Larry Hogan,GovLarryHogan,10,8,Republican,2020,USA,True
+38,3428633092020.0,342863309,Robert O'Rourke,BetoORourke,7,6,Democratic,2020,USA,True
+39,9390912020.0,939091,Joe Biden,JoeBiden,8,7,Democratic,2020,USA,True
+40,220447272020.0,22044727,Amy Klobuchar,SenAmyKlobuchar,5,5,Democratic,2020,USA,True
+41,2242852422020.0,224285242,Michael Bennet,SenatorBennet,9,6,Democratic,2020,USA,True
+42,1117216012020.0,111721601,Steve Bollock,GovernorBullock,5,5,Democratic,2020,USA,True
+43,2484952002020.0,248495200,Seth Moulton,sethmoulton,6,4,Democratic,2020,USA,True
+44,165816042020.0,16581604,Mike Bloomberg,MikeBloomberg,9,6,Democratic,2020,USA,True
+45,26956632852020.0,2695663285,Julian Castro,SecretaryCastro,8,5,Democratic,2020,USA,True
+46,721988062020.0,72198806,Kirsten Gillibrand,SenGillibrand,5,5,Democratic,2020,USA,True
+47,303549912020.0,30354991,Kamala Harris,KamalaHarris,5,4,Democratic,2020,USA,True
+48,4260286462020.0,426028646,John Delaney,JohnDelaney,4,4,Democratic,2020,USA,True
+49,1.3187283369237873e+22,1318728336923787264,John Hickenlooper,SenatorHick,5,3,Democratic,2020,USA,True
+50,21670978812020.0,2167097881,Cory Booker,SenBooker,4,3,Democratic,2020,USA,True
+51,7.347837925025751e+21,734783792502575105,Bill Weld,GovBillWeld,9,4,Republican,2020,USA,True
+52,2262221472020.0,226222147,Pete Buttigieg,PeteButtigieg,8,4,Democratic,2020,USA,True
+53,9702072982020.0,970207298,Elizabeth Warren,SenWarren,1,1,Democratic,2020,USA,True
+54,467646312020.0,46764631,Joe Sestak,JoeSestak,5,2,Forward,2020,USA,True
+55,10772148082020.0,1077214808,Jay Inslee,GovInslee,9,2,Republican,2020,USA,True
+56,22288785922020.0,2228878592,Andrew Yang,AndrewYang,7,1,Forward,2020,USA,True
+57,1.1763677025434132e+22,1176367702543413248,Jo Jorgensen,JoForLiberty,10,-3,Libertarian,2020,USA,True
+58,215223382020.0,21522338,Marianne Williamson,marwilliamson,2,-2,Democratic,2020,USA,True
+59,9499344362020.0,949934436,Tom Steyer,TomSteyer,7,1,Democratic,2020,USA,True
+60,7.526389690959995e+21,752638969095999489,Mike Gravel,MikeGravel_US,-1,-1,Democratic,2020,USA,True
+61,266373482020.0,26637348,Tulsi Gabbard,TulsiGabbard,-2,-2,Democratic,2020,USA,True
+62,294423132020.0,29442313,Bernie Sanders,SenSanders,-1,-2,Independent,2020,USA,True
+63,1422346262020.0,142234626,Howie Hawkins,HowieHawkins,-5,-3,Green,2020,USA,True
+64,74012022008.0,7401202,Stephen Harper,StephenHarper,6,6,Conservative,2008,CA,True
+65,162205552008.0,16220555,Elizabeth May,ElizabethMay,1,0,Green,2008,CA,True
+66,155265632008.0,15526563,Jack Layton,jacklayton,-2,-2,New Democratic Party,2008,CA,True
+67,74012022011.0,7401202,Stephen Harper,StephenHarper,7,6,Conservative,2011,CA,True
+68,172895302011.0,17289530,Michael Ignatieff,M_Ignatieff,3,3,Liberal,2011,CA,True
+69,162205552011.0,16220555,Elizabeth May,ElizabethMay,0,1,Green,2011,CA,True
+70,155265632011.0,15526563,Jack Layton,jacklayton,-1,-1,New Democratic Party,2011,CA,True
+71,74012022015.0,7401202,Stephen Harper,StephenHarper,7,9,Conservative,2015,CA,True
+72,142609602015.0,14260960,Justin Trudeau,JustinTrudeau,2,4,Liberal,2015,CA,True
+73,162205552015.0,16220555,Elizabeth May,ElizabethMay,1,0,Green,2015,CA,True
+74,3639976842015.0,363997684,Tom Mulcair,ThomasMulcair,0,-2,New Democratic Party,2015,CA,True
+75,2563607382019.0,256360738,Andrew Scheer,AndrewScheer,7,7,Conservative,2019,CA,True
+76,142609602019.0,14260960,Justin Trudeau,JustinTrudeau,3,3,Liberal,2019,CA,True
+77,162205552019.0,16220555,Elizabeth May,ElizabethMay,2,1,Green,2019,CA,True
+78,2533400752019.0,253340075,Jagemeet Singh,theJagmeetSingh,-2,-3,New Democratic Party,2019,CA,True
+79,382622902019.0,38262290,Yves-Francois Blanchet,yfblanchet,-1,-1,Bloc Quebecios,2019,CA,True
+80,27919881242019.0,2791988124,Maxime Bernier,MaximeBernier,9,8,People's Party,2019,CA,True
+81,2965535762021.0,296553576,Erin O'Toole,erinotoole,8,7,Conservative,2021,CA,True
+82,142609602021.0,14260960,Justin Trudeau,JustinTrudeau,4,4,Liberal,2021,CA,True
+83,1.1565605305948324e+22,1156560530594832390,Annamie Paul,AnnamiePaul,2,2,Green,2021,CA,True
+84,2533400752021.0,253340075,Jagemeet Singh,theJagmeetSingh,-3,-2,New Democratic Party,2021,CA,True
+85,382622902021.0,38262290,Yves-Francois Blanchet,yfblanchet,-2,-2,Bloc Quebecios,2021,CA,True
+86,27919881242021.0,2791988124,Maxime Bernier,MaximeBernier,9,5,People's Party,2021,CA,True
+87,1030651572010.0,103065157,David Cameron,David_Cameron,8,6,Conservative,2010,UK,True
+88,5322475732010.0,532247573,Gordon Brown,GordonBrown,4,7,Labour,2010,UK,False
+89,150103492010.0,15010349,Nick Clegg,nickclegg,3,-1,Liberal Democrats,2010,UK,True
+90,1030651572015.0,103065157,David Cameron,David_Cameron,9,6,Conservative,2015,UK,True
+91,617812602015.0,61781260,Ed Miliband,Ed_Miliband,4,5,Labour,2015,UK,True
+92,1609520872015.0,160952087,Nicola Sturgeon,NicolaSturgeon,-1,2,Scottish National Party,2015,UK,True
+93,150103492015.0,15010349,Nick Clegg,nickclegg,5,2,Liberal Democrats,2015,UK,True
+94,7.478072508199813e+21,747807250819981312,Theresa May,theresa_may,7,9,Conservative,2017,UK,True
+95,1177776902017.0,117777690,Jeremy Corbyn,jeremycorbyn,-4,-2,Labour,2017,UK,True
+96,1609520872017.0,160952087,Nicola Sturgeon,NicolaSturgeon,-2,2,Scottish National Party,2017,UK,True
+97,800210452017.0,80021045,Tim Farron,timfarron,3,1,Liberal Democrats,2017,UK,True
+98,2757992772017.0,275799277,Arlene Foster,ArleneFosterUK,5,8,DUP,2017,UK,True
+99,31311448552019.0,3131144855,Boris Johnson,BorisJohnson,9,7,Conservative,2019,UK,True
+100,1177776902019.0,117777690,Jeremy Corbyn,jeremycorbyn,-6,-2,Labour,2019,UK,True
+101,1609520872019.0,160952087,Nicola Sturgeon,NicolaSturgeon,-2,-1,Scottish National Party,2019,UK,True
+102,149333042019.0,14933304,Jo Swinson,joswinson,4,2,Liberal Democrats,2019,UK,True
+103,1609520872021.0,160952087,Nicola Sturgeon,NicolaSturgeon,-2,-1,Scottish National Party,2021,UK,True
+104,28908016612021.0,2890801661,Douglass Ross,Douglas4Moray,7,6,Conservative,2021,UK,True
+105,2012268272021.0,201226827,Anas Sarwar,AnasSarwar,1,2,Labour,2021,UK,True
+106,31980018632021.0,3198001863,Lorna Slater,lornaslater,-4,-3,Scottish Green,2021,UK,True
+107,211254052021.0,21125405,Patrick Harvie,patrickharvie,-4,-3,Scottish Green,2021,UK,True
+108,520026022021.0,52002602,Willie Rennie,willie_rennie,5,2,Liberal Democrats,2021,UK,True
+109,1140079142020.0,114007914,Michael Martin,MichealMartinTD,4,4,Fianna Fail,2020,IE,True
+110,1488724682020.0,148872468,Mary Lou McDonald,MaryLouMcDonald,-2,2,Sinn Fein,2020,IE,True
+111,2294668772020.0,229466877,Leo Varadkar,LeoVaradkar,7,2,Fine Gael,2020,IE,True
+112,220056252020.0,22005625,Eamon Ryan,EamonRyan,-2,-3,Green,2020,IE,True
+113,42059550872020.0,4205955087,Brendan Howlin,BrendanHowlin,2,-1,Labour,2020,IE,True
+114,1909876892020.0,190987689,Catherine Murphy,CathMurphyTD,-3,-3,Social Democrats,2020,IE,True
+115,780267482020.0,78026748,Roisin Shortall,RoisinShortall,-3,-3,Social Democrats,2020,IE,True
+116,8566415662013.0,856641566,Peer Steinbruck,peersteinbrueck,1,2,SPD,2013,DE,True
+117,8882897902013.0,888289790,Gregor Gysi,GregorGysi,-5,-7,Left,2013,DE,True
+118,4857515942013.0,485751594,Jurgen Trittin,JTrittin,-3,-4,Greens,2013,DE,True
+119,6262879302013.0,626287930,Katrin Goring-Eckardt,GoeringEckardt,-3,-4,Greens,2013,DE,True
+120,176750722017.0,17675072,Martin Schulz,MartinSchulz,3,2,SPD,2017,DE,True
+121,9.146128269285048e+21,914612826928504832,Alexander Gauland,AG_AfD,5,8,AfD,2017,DE,True
+122,8.333982090536059e+21,833398209053605888,Alice Weidel,Alice_Weidel,5,8,AfD,2017,DE,True
+123,1221043532017.0,122104353,Christian Lindner,c_lindner,7,3,FDP,2017,DE,True
+124,23205199582017.0,2320519958,Dietmar Bartsch,DietmarBartsch,-2,-1,Left,2017,DE,True
+125,473756912017.0,47375691,Sahra Wagenknecht,SWagenknecht,-2,-1,Left,2017,DE,True
+126,6262879302017.0,626287930,Katrin Goring-Eckardt,GoeringEckardt,2,4,Greens,2017,DE,True
+127,191087662017.0,19108766,Cem Ozdemir ,cem_oezdemir,2,4,Greens,2017,DE,True
+128,381502472021.0,38150247,Olaf Scholz,OlafScholz,4,2,SPD,2021,DE,True
+129,8355416642021.0,835541664,Armin Laschet,ArminLaschet,6,6,CDU/CSU,2021,DE,True
+130,1.4692643875129794e+22,1469264387512979461,Annalena Baerbock,ABaerbock,3,3,Greens,2021,DE,True
+131,1221043532021.0,122104353,Christian Linder,c_lindner,9,1,FDP,2021,DE,True
+132,8.333982090536059e+21,833398209053605888,Alice Weidel,Alice_Weidel,7,8,AfD,2021,DE,True
+133,7.971373338207846e+21,797137333820784640,Tino Chrupalla,Tino_Chrupalla,7,8,AfD,2021,DE,True
+134,1434845532021.0,143484553,Janine Wissler,Janine_Wissler,-2,-1,Left,2021,DE,True
+135,23205199582021.0,2320519958,Dietmar Bartsch,DietmarBartsch,-2,-1,Left,2021,DE,True
+136,19761430682017.0,1976143068,Emmanuel Macron,EmmanuelMacron,9,-1,EM,2017,FR,True
+137,2177498962017.0,217749896,Marie Le Pen,MLP_officiel,0,9,FN,2017,FR,True
+138,808207582017.0,80820758,Jean-Luc Melenchon,JLMelenchon,-6,-1,LFI,2017,FR,True
+139,143891772017.0,14389177,Benoit Hamon,benoithamon,-1,-1,PS,2017,FR,True
+140,5516696232017.0,551669623,Francois Fillon,FrancoisFillon,8,7,LR,2017,FR,True
+141,19761430682022.0,1976143068,Emmanuel Macron,EmmanuelMacron,8,3,LREM,2022,FR,True
+142,2177498962022.0,217749896,Marie Le Pen,MLP_officiel,1,7,RN,2022,FR,True
+143,260735812022.0,26073581,Anne Hildago,Anne_Hidalgo,0,-1,PS,2022,FR,True
+144,1.1834185382850273e+22,1183418538285027329,Eric Zemmour,ZemmourEric,8,8,R!,2022,FR,True
+145,499692232022.0,49969223,Valerie Pecresse,vpecresse,8,6,LR,2022,FR,True
+146,1177615232022.0,117761523,Yannick Jadot,yjadot,-2,-2,LE,2022,FR,True
+147,808207582022.0,80820758,Jean-Luc Melenchon,JLMelenchon,-6,-1,LFI,2022,FR,True
+148,13244495882022.0,1324449588,Fabien Roussel,Fabien_Roussel,-8,1,PCF,2022,FR,True
+149,854361972010.0,85436197,Julia Gillard,JuliaGillard,4,4,Labor,2010,AUS,True
+150,937660962010.0,93766096,Tony Abbot,HonTonyAbbott,7,7,Liberal/National Coalition,2010,AUS,True
+151,3338802042010.0,333880204,Bob Brown,DrBobBrown,-2,-3,Greens,2010,AUS,False
+152,937660962013.0,93766096,Tony Abbot,HonTonyAbbott,7,7,Liberal/National Coalition,2013,AUS,True
+153,168326322013.0,16832632,Kevin Rudd,MrKRudd,5,5,Labor,2013,AUS,True
+154,437921252013.0,43792125,Chrstine Milne,ChristineMilne,-3,-4,Greens,2013,AUS,True
+155,3107260372013.0,310726037,Bob Katter,RealBobKatter,-2,8,Katter's Australia,2013,AUS,True
+156,167349092016.0,16734909,Malcolm Turnbull,TurnbullMalcolm,8,7,Liberal/National Coalition,2016,AUS,True
+157,1371985862016.0,137198586,Bill Shorten,billshortenmp,4,4,Labor,2016,AUS,True
+158,376112922016.0,37611292,Richard Di Natale,RichardDiNatale,-1,-5,Greens,2016,AUS,True
+159,3107260372016.0,310726037,Bob Katter,RealBobKatter,8,-2,Katter's Australia,2016,AUS,True
+160,341163772019.0,34116377,Scott Morrison,ScoMo30,8,7,Liberal/National Coalition,2019,AUS,True
+161,1371985862019.0,137198586,Bill Shorten,billshortenmp,4,3,Labour,2019,AUS,True
+162,376112922019.0,37611292,Richard Di Natale,RichardDiNatale,-3,-2,Greens,2019,AUS,True
+163,3107260372019.0,310726037,Bob Katter,RealBobKatter,7,-2,Katter's Australia,2019,AUS,True
+164,42530315052019.0,4253031505,Rebekha Sharkie,MakeMayoMatter,5,5,Centre Alliance,2019,AUS,True
+165,2545157822022.0,254515782,Anthony Albanese,AlboMP,4,2,Labour,2022,AUS,True
+166,341163772022.0,34116377,Scott Morrison,ScoMo30,8,8,Liberal/National Coalition,2022,AUS,True
+167,259607142022.0,25960714,Adam Bandt,AdamBandt,-3,-2,Greens,2022,AUS,True
+168,3107260372022.0,310726037,Bob Katter,RealBobKatter,8,-1,Katter's Australia,2022,AUS,True
+169,1283729402022.0,128372940,Jair Bolsanaro,jairbolsonaro,9,9,Liberal,2022,BR,True
+170,26707267402022.0,2670726740,Lula da Silva,LulaOficial,-3,-2,Workers,2022,BR,True
+171,173801672011.0,17380167,John Key,RtHon_JohnKey,7,4,National,2011,NZ,True
+172,181499772011.0,18149977,Phil Goff,phil_goff,2,0,Labour,2011,NZ,True
+173,280082892011.0,28008289,Russel Norman,RusselNorman,-4,-2,Green,2011,NZ,True
+174,3556053182011.0,355605318,Metiria Turei,MetiriaTureiMP,-4,-2,Green,2011,NZ,True
+175,11551128312011.0,1155112831,Pita Sharples,papapita,-1,0,Maori Party,2011,NZ,False
+176,6067093372011.0,606709337,Hone Harawire,MPHoneHarawira,-3,3,Mana,2011,NZ,False
+177,8.86526217091924e+21,886526217091923968,Don Brash,DonBrashNZ,8,4,ACT,2011,NZ,False
+178,2439161392011.0,243916139,Peter Dunne,honpeterdunne,5,5,United Future,2011,NZ,True
+179,173801672014.0,17380167,John Key,RtHon_JohnKey,7,5,National,2014,NZ,True
+180,162208632014.0,16220863,David Cunliffe,davidcunliffe,2,1,Labour,2014,NZ,True
+181,280082892014.0,28008289,Russel Norman,RusselNorman,-4,-4,Green,2014,NZ,True
+182,3556053182014.0,355605318,Metiria Turei,MetiriaTureiMP,-4,-4,Green,2014,NZ,True
+183,3469440922014.0,346944092,Winston Peters,winstonpeters,-1,2,NZ First,2014,NZ,True
+184,2629098612014.0,262909861,Te Ururoa Flavell,TeUruroaFlavell,-1,0,Maori Party,2014,NZ,True
+185,1.019934826579792e+22,1019934826579791872,Jamie Whyte,_JamieWhyte,9,7,ACT,2014,NZ,False
+186,2439161392014.0,243916139,Peter Dunne,honpeterdunne,3,0,United Future,2014,NZ,True
+187,6067093372014.0,606709337,Hone Harawire,MPHoneHarawira,-5,-2,Internet Mana,2014,NZ,True
+188,12771478702014.0,1277147870,Laila Harre,lailaharre,-5,-2,Internet Mana,2014,NZ,True
+189,316342332017.0,31634233,Bill English,RtHonBEnglish,8,6,National,2017,NZ,True
+190,229597632017.0,22959763,Jacinda Ardern,jacindaardern,3,2,Labour,2017,NZ,True
+191,3469440922017.0,346944092,Winston Peters,winstonpeters,-1,4,NZ First,2017,NZ,True
+192,315831012017.0,31583101,James Shaw,jamespeshaw,-3,-3,Green,2017,NZ,True
+193,233523832017.0,23352383,David Seymour,dbseymour,9,7,ACT,2017,NZ,True
+194,2629098612017.0,262909861,Te Ururoa Flavell,TeUruroaFlavell,-1,0,Maori Party,2017,NZ,True
+195,229597632020.0,22959763,Jacinda Ardern,jacindaardern,5,3,Labour,2020,NZ,True
+196,7562278082020.0,756227808,Judith Collins,JudithCollinsMP,8,6,National,2020,NZ,True
+197,315831012020.0,31583101,James Shaw,jamespeshaw,-3,-3,Green,2020,NZ,True
+198,1474065612020.0,147406561,Marama Davidson,MaramaDavidson,-3,-3,Green,2020,NZ,True
+199,233523832020.0,23352383,David Seymour,dbseymour,9,-1,ACT,2020,NZ,True
+200,692095292020.0,69209529,John Tamihere,john_tamihere,0,0,Maori Party,2020,NZ,True
+201,16135673352020.0,1613567335,Debbie Ngarewa-Packer,whaeadeb,0,0,Maori Party,2020,NZ,True
+202,3469440922020.0,346944092,Winston Peters,winstonpeters,7,7,NZ First,2020,NZ,True
+203,1.1809760326580141e+22,1180976032658014209,Christopher Luxon,chrisluxonmp,8,6,National,2023,NZ,True
+204,257540562023.0,25754056,Chris Hipkins,chrishipkins,6,4,Labour,2023,NZ,True
+205,315831012023.0,31583101,James Shaw,jamespeshaw,-2,-3,Green,2023,NZ,True
+206,1474065612023.0,147406561,Marama Davidson,MaramaDavidson,-2,-3,Green,2023,NZ,True
+207,233523832023.0,23352383,David Seymour,dbseymour,10,-2,ACT,2023,NZ,True
+208,3469440922023.0,346944092,Winston Peters,winstonpeters,7,7,NZ First,2023,NZ,True
+209,16135673352023.0,1613567335,Debbie Ngarewa-Packer,whaeadeb,-1,1,Te Pati Maori,2023,NZ,True
+210,2008,null,Duncan Hunter,null,7,6,Republican,2008,USA,False
+211,12008,null,John Edwards,null,2,1,Democratic,2008,USA,False
+212,12012,null,Stewart Alexander,null,-5,-1,Socialist,2012,USA,False
+213,22012,null,Rockey Anderson,null,4,-2,Justice,2012,USA,False
+214,22008,null,Stephane Dion,null,2,3,Liberal,2008,CA,False
+215,32008,null,Gilles Duceppe,null,-1,-1,Bloc Quebecios,2008,CA,False
+216,12013,null,Angela Merkel,null,7,6,CDU/SCU,2013,DE,False
+217,22013,null,Rainer Bruderle,null,8,-1,FDP,2013,DE,False
+218,12010,null,Tony Crook,null,5,6,WA Nationals,2010,AUS,False
+219,12011,null,Tariana Turia,null,-1,0,Maori Party,2011,NZ,False
+220,12017,null,Marama Fox,null,-1,0,Maori Party,2017,NZ,False
