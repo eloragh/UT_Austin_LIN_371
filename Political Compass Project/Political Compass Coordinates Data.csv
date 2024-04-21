@@ -48,7 +48,7 @@ key,user_id,user_name,user_handle,x_coordinate,y_coordinate,political party,year
 ,,Kirsten Gillibrand,SenGillibrand,5,5,Democratic,2020,USA,
 ,,Kamala Harris,KamalaHarris,5,4,Democratic,2020,USA,
 ,,John Delaney,JohnDelaney,4,4,Democratic,2020,USA,
-,,John Hickenlooper,SenHickenlooper,5,3,Democratic,2020,USA,
+,,John Hickenlooper,SenHicken,5,3,Democratic,2020,USA,
 ,,Cory Booker,SenBooker,4,3,Democratic,2020,USA,
 ,,Bill Weld,GovBillWeld,9,4,Republican,2020,USA,
 ,,Pete Buttigieg,PeteButtigieg,8,4,Democratic,2020,USA,
