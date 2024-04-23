@@ -25,4 +25,5 @@ This repository contains all of the assignments and input text files for LIN 371
 - Multi-layer perceptions, deep neural networks, overfitting, static word embeddings vs. contextualized word embeddings, neural network bias
 
 ## Final Project
+<img align="center" width="100" height="100" src=Misc/Political_Compass.png>
 This final project was done in collaboration with Rylan Vachon. Our goal was to use X data to plot different users on the [Political Compass](https://www.politicalcompass.org/). We used two separate linear regression models to identify the x and y coordinates for each test user. To read more about the methodology and results, see [Predicting Political and Ideological Alignment using X Data.](https://github.com/eloragh/UT_Austin_LIN_371/tree/main/Political%20Compass%20Project)
