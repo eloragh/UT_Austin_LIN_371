@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [Assignments](#assignments)
-- [Final Project](#final-project)
+- [Final Project](#final-project---predicting-political-and-ideological-alignment-using-x-data)
 
 ## Introduction
 
@@ -24,8 +24,7 @@ This repository contains all of the assignments and input text files for LIN 371
 [Homework 4](https://github.com/eloragh/UT_Austin_LIN_371/blob/main/Homework/hw4_eae2273.ipynb)
 - Multi-layer perceptions, deep neural networks, overfitting, static word embeddings vs. contextualized word embeddings, neural network bias
 
-## Final Project
-## Predicting Political and Ideological Alignment using X Data
+## Final Project - Predicting Political and Ideological Alignment using X Data
 <img align="left" width="500" height="400" src=Misc/political_compass_nontransparent.png>
 
 This final project was done in collaboration with Rylan Vachon. Our goal was to use X data to plot different users on the [Political Compass](https://www.politicalcompass.org/). 
